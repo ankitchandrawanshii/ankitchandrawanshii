@@ -13,13 +13,12 @@
 
 ✨ Computer Science engineer mastering algorithmic performance and scalable architectures.  
 🧠 Building high-fidelity neural systems, real-world intelligence & advanced DSA solutions.  
-⚡ Passionate about Full Stack Development, AI, Cybersecurity & Open Source.  
+⚡ Passionate about Full Stack Development, Open Source.  
 🎯 Focused on writing efficient code and solving real-world problems.  
 🔥 Currently exploring:
 - Advanced DSA
 - Backend Systems
 - AI Integrations
-- Cybersecurity Labs
 - Scalable Web Applications
 
 ---
